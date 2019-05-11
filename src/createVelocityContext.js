@@ -1,4 +1,6 @@
 const jsEscapeString = require('js-string-escape');
+const jwt = require('jsonwebtoken');
+
 const utils = require('./utils');
 const jsonPath = require('./jsonPath');
 
